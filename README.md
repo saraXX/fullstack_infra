@@ -25,7 +25,7 @@ Computer Science graduate and Backend Software Engineer dedicated to designing s
 
 - **[Cloura-fullstack-infr-project](https://github.com/saraXX/Cloura-fullstack-infr-project)**: Full-stack infrastructure project featuring automated CI/CD pipelines and security vulnerability scanning with Trivy.
 - **[BestPracticeErrorHandlingAPIs](https://github.com/saraXX/BestPracticeErrorHandlingAPIs)**: C# backend repository demonstrating clean architecture and enterprise error-handling patterns in APIs.
-- **[HR_DB_system_Miniamlapi_EF](https://github.com/saraXX/HR_DB_system_Miniamlapi_EF)**: Human Resources database system built using ASP.NET Core Minimal APIs and Entity Framework.
+- **[HR_DB_system_Miniamlapi_EF](https://github.com/saraXX/HR_DB_system_Miniamlapi_EF)**: Human Resources database system built using ASP.NET Core Minimal APIs and Entity Framework.  **[preview 🔎](http://3.71.7.78/)**
 - **[ModelBinding_MinimalAPI](https://github.com/saraXX/ModelBinding_MinimalAPI)**: Focused implementation of advanced model binding techniques in ASP.NET Core Minimal APIs.
 
 ---
